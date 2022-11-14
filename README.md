@@ -6,7 +6,7 @@ Just contribution to Bintable project with golang API library.
 
 ```go
 
-import ""github.com/lexterl33t/bintable_api_go"
+import "github.com/lexterl33t/bintable_api_go"
 ```
 
 You must create bintable account to this link <a href="https://bintable.com/get-api">Bintable</a>
